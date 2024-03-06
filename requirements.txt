@@ -1,0 +1,11 @@
+datasets 
+torch 
+transformers 
+sentencepiece 
+accelerate 
+bitsandbytes 
+py7zr 
+evaluate 
+rouge-score 
+huggingface-hub
+python-dotenv
